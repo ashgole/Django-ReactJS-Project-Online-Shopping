@@ -21,7 +21,7 @@ This project aim to learn how to build Full stack Application. using `Django as 
 ![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/4.png)
 ![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/5.png)
 ![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/6.png)
-![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/7.png)
+![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/7.PNG)
 ![alt text](https://github.com/ashgole/Django-ReactJS-Project-Online-Shopping/blob/main/screenshots/8.png)
 
 
